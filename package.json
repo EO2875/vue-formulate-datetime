@@ -1,6 +1,6 @@
 {
   "name": "@cone2875/vue-formulate-datetime",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Vue Formulate + Vue Datetime",
   "private": false,
   "main": "dist/index.js",
@@ -42,5 +42,9 @@
     "name": "Jose Etienne Ortega",
     "email": "etiortega@yahoo.com"
   },
-  "license": "LGPL"
+  "license": "LGPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EO2875/vue-formulate-datetime.git"
+  }
 }
