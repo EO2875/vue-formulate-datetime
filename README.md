@@ -7,7 +7,7 @@ Vue Formulate Datetime is a [Vue Formulate][1] plugin that provides the
 
 ## NPM
 ```sh
-npm install vue-formulate-datetime
+npm install @cone2875/vue-formulate-datetime
 ```
 
 ## Add to Vue
